@@ -1,5 +1,4 @@
 # week07/.github/workflows/backend_ci.yml
-# Trigger CI for testing
 
 name: Backend CI - Test, Build and Push Images to ACR
 
